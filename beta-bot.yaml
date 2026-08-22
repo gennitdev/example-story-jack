@@ -1,0 +1,14 @@
+format: "beta-bot-library"
+format_version: 1
+bundle_id: "bundle-jack-example-workshop-v1"
+bundle_kind: "selection"
+content_mode: "full"
+exported_at: "2026-08-22T18:00:00.000Z"
+app_version: "workshop"
+book_ids:
+  - "jack-house-above-rain"
+includes:
+  image_bytes: true
+  history: false
+  audit_records: false
+hash_algorithm: "sha256"

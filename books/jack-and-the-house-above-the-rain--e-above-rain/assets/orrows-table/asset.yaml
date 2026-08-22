@@ -1,0 +1,15 @@
+id: "jack-asset-17-morrows-table"
+book_id: "jack-house-above-rain"
+chapter_id: null
+asset_type: "chapter"
+file_name: "the-giants-at-the-table.png"
+mime_type: "image/png"
+notes: "Lord and Lady Morrow at their enormous dining table."
+wiki_page_ids:
+  - "jack-wiki-lord-morrow"
+  - "jack-wiki-lady-morrow"
+  - "jack-wiki-cloud-house"
+created_at: "2026-08-22T18:00:00.000Z"
+updated_at: "2026-08-22T18:00:00.000Z"
+sha256: "2622e3ba4718234e713280bea05b2c86822bc9d1471aee8f76d9fef02f36bc45"
+byte_length: 2810588

@@ -1,0 +1,13 @@
+id: "jack-img-15"
+book_id: "jack-house-above-rain"
+chapter_id: null
+asset_type: "cover"
+file_name: "lord-morrow-portrait.png"
+mime_type: "image/png"
+notes: "Character portrait of Lord Morrow."
+wiki_page_ids:
+  - "jack-wiki-lord-morrow"
+created_at: "2026-08-22T18:00:00.000Z"
+updated_at: "2026-08-22T18:00:00.000Z"
+sha256: "683c3012ff6e35a6df62c621a5159016020f85561fcf0d419ca9fddaa54bfcc3"
+byte_length: 2391481

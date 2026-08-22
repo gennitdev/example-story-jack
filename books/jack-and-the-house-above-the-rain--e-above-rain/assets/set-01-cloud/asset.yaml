@@ -1,0 +1,15 @@
+id: "jack-asset-01-cloud"
+book_id: "jack-house-above-rain"
+chapter_id: "jack-ch-01-bruised-cloud"
+asset_type: "chapter"
+file_name: "beneath-the-bruised-purple-cloud.png"
+mime_type: "image/png"
+notes: "Cover illustration for “Beneath the Bruised Purple Cloud.”"
+wiki_page_ids:
+  - "jack-wiki-jack"
+  - "jack-wiki-dapple"
+  - "jack-wiki-bellweather-valley"
+created_at: "2026-08-22T12:00:00.000Z"
+updated_at: "2026-08-22T18:00:00.000Z"
+sha256: "d4ff03e27421eb14939c238fe344343816aa15d7a24e28a78dcd9bcf12597074"
+byte_length: 2656637

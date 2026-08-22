@@ -1,0 +1,15 @@
+id: "jack-asset-11-part-descent"
+book_id: "jack-house-above-rain"
+chapter_id: "jack-ch-07-after-fall"
+asset_type: "part_cover"
+file_name: "five-rope-cloud-island-descent.png"
+mime_type: "image/png"
+notes: "Part cover for Bringing Down the House: the five anchor lines lower the cloud-house."
+wiki_page_ids:
+  - "jack-wiki-bellweather-valley"
+  - "jack-wiki-cloud-house"
+  - "jack-wiki-weather-room"
+created_at: "2026-08-22T18:00:00.000Z"
+updated_at: "2026-08-22T18:00:00.000Z"
+sha256: "3359c5284f4797bf36aa586a3fdb3cfc0be11678ef893775aeeb9c9cdb913e09"
+byte_length: 2795133

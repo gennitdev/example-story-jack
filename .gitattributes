@@ -1,0 +1,16 @@
+# Canonical Beta Bot text uses LF on every platform.
+*.md text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.yml text eol=lf
+
+# The immutable baseline should never be auto-merged.
+_beta-bot/inventory.json -merge
+
+# Image assets are binary. Their sibling asset.yaml files remain normal text.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary

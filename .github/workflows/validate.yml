@@ -1,0 +1,29 @@
+name: Validate Beta Bot bundle
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out example story
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Check out the Beta Bot validator
+        run: git clone --depth 1 https://github.com/gennitdev/ai-beta-reader-frontend.git "$RUNNER_TEMP/ai-beta-reader-frontend"
+
+      - name: Install validator dependencies
+        run: npm --prefix "$RUNNER_TEMP/ai-beta-reader-frontend" ci --ignore-scripts
+
+      - name: Validate canonical bundle
+        run: npm --prefix "$RUNNER_TEMP/ai-beta-reader-frontend" run validate:bundle -- "$GITHUB_WORKSPACE"

@@ -1,0 +1,17 @@
+id: "jack-house-above-rain"
+title: "Jack and the House Above the Rain"
+chapter_order:
+  - "jack-ch-01-bruised-cloud"
+  - "jack-ch-02-throwing-beans"
+  - "jack-ch-03-beanstalk-grows"
+  - "jack-ch-04-above-clouds"
+  - "jack-ch-05-giants-table"
+  - "jack-ch-06-golden-goose"
+  - "jack-ch-07-after-fall"
+part_order:
+  - "jack-part-01-bargain"
+  - "jack-part-02-above-rain"
+  - "jack-part-03-bring-down-house"
+cover_image_id: "jack-asset-08-book-cover"
+created_at: "2026-08-22T12:00:00.000Z"
+updated_at: "2026-08-22T18:00:00.000Z"
