@@ -60,4 +60,4 @@ See the [Beta Bot library bundle specification](https://github.com/gennitdev/ai-
 
 ## Licensing
 
-The licensing terms for the story and illustrations must be chosen before this repository is promoted for public reuse. No content license is granted by this README.
+This repository, including the story and illustrations, is available under the [MIT License](LICENSE).
