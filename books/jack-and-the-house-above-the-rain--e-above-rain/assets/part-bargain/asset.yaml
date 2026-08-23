@@ -2,8 +2,8 @@ id: "jack-asset-09-part-bargain"
 book_id: "jack-house-above-rain"
 chapter_id: "jack-ch-01-bruised-cloud"
 asset_type: "part_cover"
-file_name: "the-bargain.png"
-mime_type: "image/png"
+file_name: "the-bargain.webp"
+mime_type: "image/webp"
 notes: "Part cover for The Bargain: Silas Wren offers Jack the maintenance-road beans."
 wiki_page_ids:
   - "jack-wiki-jack"
@@ -13,5 +13,5 @@ wiki_page_ids:
   - "jack-wiki-wrens-house"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "f08a2b2a1d8c34df19e26f08a586da2a55ad22e6bcc815905cf2bf3fb87c533c"
-byte_length: 2848814
+sha256: "83e45343333351c0c537c5647bb759268ccfa4c9494ebd6618f868809e378524"
+byte_length: 370682

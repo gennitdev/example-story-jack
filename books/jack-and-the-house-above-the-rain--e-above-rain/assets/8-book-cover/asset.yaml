@@ -2,8 +2,8 @@ id: "jack-asset-08-book-cover"
 book_id: "jack-house-above-rain"
 chapter_id: null
 asset_type: "cover"
-file_name: "climbing-toward-cloud-cover-image.png"
-mime_type: "image/png"
+file_name: "climbing-toward-cloud-cover-image.webp"
+mime_type: "image/webp"
 notes: "Vertical cover illustration for Jack and the House Above the Rain."
 wiki_page_ids:
   - "jack-wiki-jack"
@@ -12,5 +12,5 @@ wiki_page_ids:
   - "jack-wiki-bellweather-valley"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "546e4b7e0b3471c189c482b84a504d67afe352cf8c190bcb7fe462e08695c4a5"
-byte_length: 2843094
+sha256: "fd705a24e49e87badc8fd53597bcf6d4f8c7c48f2f29c6bd6cad8601ae4c504f"
+byte_length: 374696

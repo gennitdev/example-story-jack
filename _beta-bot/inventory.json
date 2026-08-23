@@ -6,109 +6,109 @@
       "entity_type": "asset",
       "id": "jack-asset-01-cloud",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/set-01-cloud/asset.yaml",
-      "semantic_sha256": "39c9f2bd20e2bead5cb5f874c9345e4b4f4455f2dbf9baffe6c9a467ce36439f"
+      "semantic_sha256": "cbadf32d78a33b7b0a4d7dbe65bca7813ccc7814b57b3291c1dfffda68171907"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-02-throwing-beans",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/rowing-beans/asset.yaml",
-      "semantic_sha256": "1c20a986c2789c9b990822b66229437ef87db39eb834cb9e10dcd83ef8d72adc"
+      "semantic_sha256": "08f7fd141083e6bfc5bcb5981120689be96bac6dc1fbaedc6ca347cc7df0bbeb"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-03-beanstalk",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/03-beanstalk/asset.yaml",
-      "semantic_sha256": "cb5895f4e672dd18545111467f59c7eb3fb434e3aee0fa15576948cb96a84165"
+      "semantic_sha256": "1f4e3f7ef3c9cab6cf49fff7d83aef2dccadd85339408aca8d5d3adc11879fba"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-04-climbing",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/-04-climbing/asset.yaml",
-      "semantic_sha256": "e240275e350d9910aaabc58ee20be9df912c2bd6f235a8ea6bf036a20dabcd8d"
+      "semantic_sha256": "75a97afc49f4da0f63f093822f62f291f1a17368b75e0de49baa681bf4c168b9"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-05-table",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/set-05-table/asset.yaml",
-      "semantic_sha256": "bec7ada4605390a83cea7fe21d355186ee9033619c69a7eb7e4d1be37c299a0b"
+      "semantic_sha256": "0825a36b590433cd891a20623618079c2e67e58a6f1a1892a708aaa2ee7c2f13"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-06-goose",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/set-06-goose/asset.yaml",
-      "semantic_sha256": "78686a3f041a01388df501aab15907a2c84488caa0059940c9004afaa6e372e0"
+      "semantic_sha256": "f954bb345559cf4797e14fcda8f46da009ce3029f89d210643b008f0fcf8a574"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-07-after-fall",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/7-after-fall/asset.yaml",
-      "semantic_sha256": "8298cafd5b8e3a350c2ca5126987cba8022ae70fec7117efd32350269b02f3a5"
+      "semantic_sha256": "2126703015c120b355261f4d4d3cc022889eb798871e8baa68c05708cf44b13e"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-08-book-cover",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/8-book-cover/asset.yaml",
-      "semantic_sha256": "877e446e70af9933a95e97eb8ac49df94da1a73bdb476c72c260ea051fa46d54"
+      "semantic_sha256": "a340891d5aebff1c48859557b50a71b77d7d1225213fa9c2b86d669856707a4a"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-09-part-bargain",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/part-bargain/asset.yaml",
-      "semantic_sha256": "862bee17346de73d6da83df0141752cc27139f7a538a5088386ea2b163fe2318"
+      "semantic_sha256": "c04dfd78915bb81f2531b28ca6c60b464019584a4ff4d5505e18092e9cb5d426"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-10-part-weather-garden",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/ather-garden/asset.yaml",
-      "semantic_sha256": "dc1349aaf9dae9a1cde0e8f81c7514b959e96408552a9ec2e4e1559da72e44c9"
+      "semantic_sha256": "ff8b65f2973bdbc9ed13a019e1a3870a31ba7d264cd56fbc08b839662ba6e055"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-11-part-descent",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/part-descent/asset.yaml",
-      "semantic_sha256": "1861172132abd8642602d28bbdf87a58310217f8d49d1273f758a24da18439a7"
+      "semantic_sha256": "74c57c65dad660ff4d6d4fbaba11270a56c2b7ab817479ea869c1667a86ee0c8"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-12-jack-portrait",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/ack-portrait/asset.yaml",
-      "semantic_sha256": "3f68c2fbbfb10839436c9bce3bd11c5420e31e076921a4133d6969e9de450e99"
+      "semantic_sha256": "b7a16c84e26de303f9c22a6b8addf021fe3a094c9ba72351f735f52b63d80916"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-13-nell-portrait",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/ell-portrait/asset.yaml",
-      "semantic_sha256": "8e64aba38cc9049949e0ec58a5790b081a43e98c56e0c4973fcd979769313b84"
+      "semantic_sha256": "21969b263253667527626dc836d72ef73da9bd013f3a858519e83be215c01f83"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-14-mother-portrait",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/her-portrait/asset.yaml",
-      "semantic_sha256": "3d2885ebb8cd4610e465c4cfaece291a7a1fe29aaf94e116bcdcdd411e70f05e"
+      "semantic_sha256": "1a19ae1c1a04e86b1eb81d522fe677cd5ecf693a8272f2dd76c4bb15dd976d74"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-17-morrows-table",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/orrows-table/asset.yaml",
-      "semantic_sha256": "77ea5708c1a5d4891523e4f18483080af1b78ac4e13e34aed8d6298131bb07f7"
+      "semantic_sha256": "22a6a01db25101773c04a33944048b63eb690bdc5267015af3c4bf087fee94e4"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-18-harp",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/sset-18-harp/asset.yaml",
-      "semantic_sha256": "5d9831030c62b88e89f112fec6275239e746c03060a25b965da3ba01f44c694b"
+      "semantic_sha256": "61bb4f9c0712c75e9fc42502f65e2f42ca26ddf00b0dacb78e335197262c6ca1"
     },
     {
       "entity_type": "asset",
       "id": "jack-img-15",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/jack-img-15/asset.yaml",
-      "semantic_sha256": "cd4e5900e0594655555e268e8680e01f2f0684a22bc1a162fb752c70905e0138"
+      "semantic_sha256": "fc31d415d0116be706db8ea80955ddb048866e13f52da8b3167aa369481c551e"
     },
     {
       "entity_type": "asset",
       "id": "jack-img-16",
       "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/jack-img-16/asset.yaml",
-      "semantic_sha256": "f2b8e29c04ca4b3d93770880cba62a6440f0b61ef7804ad6210fc2d1c303ff27"
+      "semantic_sha256": "532e1ba90b9f6309e51dd64b3f7b544b9d2d1282b5c8b964f990ecb322c029b0"
     },
     {
       "entity_type": "book",

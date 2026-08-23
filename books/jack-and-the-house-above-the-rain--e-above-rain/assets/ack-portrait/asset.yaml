@@ -2,12 +2,12 @@ id: "jack-asset-12-jack-portrait"
 book_id: "jack-house-above-rain"
 chapter_id: null
 asset_type: "cover"
-file_name: "jack-portrait.png"
-mime_type: "image/png"
+file_name: "jack-portrait.webp"
+mime_type: "image/webp"
 notes: "Character portrait of Jack."
 wiki_page_ids:
   - "jack-wiki-jack"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "265babba700a759c58491e473c0e4a32ccc56dfa296c95f01c10ef7af21d9172"
-byte_length: 2411322
+sha256: "09d28305d562b52e4fe16ad0a28c5ad6d8570cff517390190166abd9c302c20d"
+byte_length: 272658

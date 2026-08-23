@@ -2,8 +2,8 @@ id: "jack-asset-07-after-fall"
 book_id: "jack-house-above-rain"
 chapter_id: "jack-ch-07-after-fall"
 asset_type: "chapter"
-file_name: "after-the-fall.png"
-mime_type: "image/png"
+file_name: "after-the-fall.webp"
+mime_type: "image/webp"
 notes: "Cover illustration for “After the Fall.”"
 wiki_page_ids:
   - "jack-wiki-jack"
@@ -14,5 +14,5 @@ wiki_page_ids:
   - "jack-wiki-cloud-house"
 created_at: "2026-08-22T12:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "b80e094cb4063bdc2632e966ce55dadddc57b1cc95cf9d97db7bddf1ff24b7c7"
-byte_length: 2976159
+sha256: "07355e588c3d8d83491dbe795468754f2f098f15f2a0d799b5efdefcfb689b80"
+byte_length: 425576

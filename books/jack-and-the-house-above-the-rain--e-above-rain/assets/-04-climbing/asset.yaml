@@ -2,8 +2,8 @@ id: "jack-asset-04-climbing"
 book_id: "jack-house-above-rain"
 chapter_id: "jack-ch-04-above-clouds"
 asset_type: "chapter"
-file_name: "climbing-above-the-clouds.png"
-mime_type: "image/png"
+file_name: "climbing-above-the-clouds.webp"
+mime_type: "image/webp"
 notes: "Cover illustration for “Climbing Above the Clouds.”"
 wiki_page_ids:
   - "jack-wiki-jack"
@@ -11,5 +11,5 @@ wiki_page_ids:
   - "jack-wiki-cloud-house"
 created_at: "2026-08-22T12:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "32a4a53acabf2aaffa98e637c68c14b683a2521a84fefc06af68afb2071ac034"
-byte_length: 2658770
+sha256: "4cee19bc4e9cb0383cb3684e77ade1073abd98ac2abf3340130a9e5860ab2260"
+byte_length: 323038

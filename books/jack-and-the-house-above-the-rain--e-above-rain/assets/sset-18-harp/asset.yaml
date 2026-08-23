@@ -2,13 +2,13 @@ id: "jack-asset-18-harp"
 book_id: "jack-house-above-rain"
 chapter_id: null
 asset_type: "cover"
-file_name: "the-harp.png"
-mime_type: "image/png"
+file_name: "the-harp.webp"
+mime_type: "image/webp"
 notes: "The truth-telling harp in the Morrows’ treasury."
 wiki_page_ids:
   - "jack-wiki-truth-harp"
   - "jack-wiki-cloud-house"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "c8d90d3baa2913d1d9e2c001140fc9c1350f6a7c1a9049bfe9899334cfd8646a"
-byte_length: 2831417
+sha256: "0f91815b596936a6e8964f8b284ba00b8642c3c0708e54075bc76f1af8aafb1e"
+byte_length: 442126

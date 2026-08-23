@@ -2,12 +2,12 @@ id: "jack-img-16"
 book_id: "jack-house-above-rain"
 chapter_id: null
 asset_type: "cover"
-file_name: "lady-morrow-portrait.png"
-mime_type: "image/png"
+file_name: "lady-morrow-portrait.webp"
+mime_type: "image/webp"
 notes: "Character portrait of Lady Morrow."
 wiki_page_ids:
   - "jack-wiki-lady-morrow"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "6f3f66e52617fa471a6eceb2cd4f62940bb1137a08d64739b6e5605413ef4f14"
-byte_length: 2274612
+sha256: "fd7a253c7c635b996e7ba054a8511379e1ca5c46f15682c8249f600bf05ded8e"
+byte_length: 246258

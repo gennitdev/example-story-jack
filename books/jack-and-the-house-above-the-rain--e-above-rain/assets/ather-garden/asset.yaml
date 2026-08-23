@@ -2,8 +2,8 @@ id: "jack-asset-10-part-weather-garden"
 book_id: "jack-house-above-rain"
 chapter_id: "jack-ch-04-above-clouds"
 asset_type: "part_cover"
-file_name: "the-giants-weather-garden.png"
-mime_type: "image/png"
+file_name: "the-giants-weather-garden.webp"
+mime_type: "image/webp"
 notes: "Part cover for Above the Rain: Jack and Nell enter the Weather Garden."
 wiki_page_ids:
   - "jack-wiki-jack"
@@ -12,5 +12,5 @@ wiki_page_ids:
   - "jack-wiki-weather-garden"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "38f27b7481ecb0cc35cc83bd07161c2050689f02b63661ec3b26437aaf45ee06"
-byte_length: 3498092
+sha256: "ab85dcc3219836a288a0c5e2c0bc2857c642f139d24d4948bb423dd59e5f2c0e"
+byte_length: 562590

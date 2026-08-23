@@ -2,12 +2,12 @@ id: "jack-asset-14-mother-portrait"
 book_id: "jack-house-above-rain"
 chapter_id: null
 asset_type: "cover"
-file_name: "mother-portrait.png"
-mime_type: "image/png"
+file_name: "mother-portrait.webp"
+mime_type: "image/webp"
 notes: "Character portrait of Jack's mother."
 wiki_page_ids:
   - "jack-wiki-jacks-mother"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "a4f383214e6f8787848a39e89aa14a188c7aaf8f903a160cdabb56371e337e2c"
-byte_length: 2114331
+sha256: "c6168b06e9acacb2e7404fc045cc7ff9ff2307f7db91d3958c2da9cbea8f15bd"
+byte_length: 178816

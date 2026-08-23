@@ -2,12 +2,12 @@ id: "jack-asset-13-nell-portrait"
 book_id: "jack-house-above-rain"
 chapter_id: null
 asset_type: "cover"
-file_name: "nell-portrait.png"
-mime_type: "image/png"
+file_name: "nell-portrait.webp"
+mime_type: "image/webp"
 notes: "Character portrait of Nell."
 wiki_page_ids:
   - "jack-wiki-nell"
 created_at: "2026-08-22T18:00:00.000Z"
 updated_at: "2026-08-22T18:00:00.000Z"
-sha256: "6f1299c6fe22e93081dc95f4a9ee3bf791d9ac2f62a10d9c070e22283728329a"
-byte_length: 2254151
+sha256: "eea4ae31860203657314899686c1be7e374c4455936797cc20658a358b6a7f3e"
+byte_length: 220484
