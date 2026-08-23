@@ -5,379 +5,379 @@
     {
       "entity_type": "asset",
       "id": "jack-asset-01-cloud",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/set-01-cloud/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/set-01-cloud/asset.yaml",
       "semantic_sha256": "cbadf32d78a33b7b0a4d7dbe65bca7813ccc7814b57b3291c1dfffda68171907"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-02-throwing-beans",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/rowing-beans/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/rowing-beans/asset.yaml",
       "semantic_sha256": "08f7fd141083e6bfc5bcb5981120689be96bac6dc1fbaedc6ca347cc7df0bbeb"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-03-beanstalk",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/03-beanstalk/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/03-beanstalk/asset.yaml",
       "semantic_sha256": "1f4e3f7ef3c9cab6cf49fff7d83aef2dccadd85339408aca8d5d3adc11879fba"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-04-climbing",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/-04-climbing/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/-04-climbing/asset.yaml",
       "semantic_sha256": "75a97afc49f4da0f63f093822f62f291f1a17368b75e0de49baa681bf4c168b9"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-05-table",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/set-05-table/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/set-05-table/asset.yaml",
       "semantic_sha256": "0825a36b590433cd891a20623618079c2e67e58a6f1a1892a708aaa2ee7c2f13"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-06-goose",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/set-06-goose/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/set-06-goose/asset.yaml",
       "semantic_sha256": "f954bb345559cf4797e14fcda8f46da009ce3029f89d210643b008f0fcf8a574"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-07-after-fall",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/7-after-fall/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/7-after-fall/asset.yaml",
       "semantic_sha256": "2126703015c120b355261f4d4d3cc022889eb798871e8baa68c05708cf44b13e"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-08-book-cover",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/8-book-cover/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/8-book-cover/asset.yaml",
       "semantic_sha256": "a340891d5aebff1c48859557b50a71b77d7d1225213fa9c2b86d669856707a4a"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-09-part-bargain",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/part-bargain/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/part-bargain/asset.yaml",
       "semantic_sha256": "c04dfd78915bb81f2531b28ca6c60b464019584a4ff4d5505e18092e9cb5d426"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-10-part-weather-garden",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/ather-garden/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/ather-garden/asset.yaml",
       "semantic_sha256": "ff8b65f2973bdbc9ed13a019e1a3870a31ba7d264cd56fbc08b839662ba6e055"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-11-part-descent",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/part-descent/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/part-descent/asset.yaml",
       "semantic_sha256": "74c57c65dad660ff4d6d4fbaba11270a56c2b7ab817479ea869c1667a86ee0c8"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-12-jack-portrait",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/ack-portrait/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/ack-portrait/asset.yaml",
       "semantic_sha256": "b7a16c84e26de303f9c22a6b8addf021fe3a094c9ba72351f735f52b63d80916"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-13-nell-portrait",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/ell-portrait/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/ell-portrait/asset.yaml",
       "semantic_sha256": "21969b263253667527626dc836d72ef73da9bd013f3a858519e83be215c01f83"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-14-mother-portrait",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/her-portrait/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/her-portrait/asset.yaml",
       "semantic_sha256": "1a19ae1c1a04e86b1eb81d522fe677cd5ecf693a8272f2dd76c4bb15dd976d74"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-17-morrows-table",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/orrows-table/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/orrows-table/asset.yaml",
       "semantic_sha256": "22a6a01db25101773c04a33944048b63eb690bdc5267015af3c4bf087fee94e4"
     },
     {
       "entity_type": "asset",
       "id": "jack-asset-18-harp",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/sset-18-harp/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/sset-18-harp/asset.yaml",
       "semantic_sha256": "61bb4f9c0712c75e9fc42502f65e2f42ca26ddf00b0dacb78e335197262c6ca1"
     },
     {
       "entity_type": "asset",
       "id": "jack-img-15",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/jack-img-15/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/jack-img-15/asset.yaml",
       "semantic_sha256": "fc31d415d0116be706db8ea80955ddb048866e13f52da8b3167aa369481c551e"
     },
     {
       "entity_type": "asset",
       "id": "jack-img-16",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/assets/jack-img-16/asset.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/assets/jack-img-16/asset.yaml",
       "semantic_sha256": "532e1ba90b9f6309e51dd64b3f7b544b9d2d1282b5c8b964f990ecb322c029b0"
     },
     {
       "entity_type": "book",
       "id": "jack-house-above-rain",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/book.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/book.yaml",
       "semantic_sha256": "9a0f26af4374c5a5f4d48782ca9756dae897800d6bc6bd4d7e27310828fa7226"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-dapple-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "f61eb0666291814a4d3d726fd72e59e30074fab42319ce79a884b7d0c8bda3b4"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-jack-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "3d60e98f361e17e5dc8587b603450ad30a2da8b75136526dcd235f3347b101fa"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-jacks-mother-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "7a081f73ef59250f230491399bf88afc0a1adf950d59196e87b7d76fa46908a5"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-lady-morrow-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "0c5eca8ae30d885561a0a7349a416aeab484b20395ab4e445c27e2a30452911d"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-lord-morrow-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "bb475eb9270986b6dc3c1b5afbaf21bc5c7cf75438a8afaf32af0ce44487b580"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-majesty-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "f404451b2e86b5c4c136c02180adb586374c8031bf3aec92e1e1341a265aa41b"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-nell-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "c51fd404fdcfcb741843a63c88f10f101c6c043e2b43d2cc70274ef89a52d68e"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-silas-wren-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "1fa7eadbff4c633ce1cd69ffae4f22f8506a604191c8650fe8687bac4439d204"
     },
     {
       "entity_type": "book_character",
       "id": "jack-wiki-truth-harp-book-character",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/characters.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/characters.yaml",
       "semantic_sha256": "3b17904efdb416398a650ae9a6b98474ecb15d853cd6ee528f666fec425bc5b3"
     },
     {
       "entity_type": "chapter",
       "id": "jack-ch-01-bruised-cloud",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/beneath-the-bruised-purple-cloud--ruised-cloud/chapter.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/beneath-the-bruised-purple-cloud--ruised-cloud/chapter.md",
       "semantic_sha256": "6566e2e6102ec7bf840d8ae565992f70ede7b82f0237fa1b83f2e31c66aec44f"
     },
     {
       "entity_type": "chapter",
       "id": "jack-ch-02-throwing-beans",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/throwing-the-beans-away--rowing-beans/chapter.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/throwing-the-beans-away--rowing-beans/chapter.md",
       "semantic_sha256": "378a43e9e6532864116fb2bb7604528ef6e62acf0faafec6adc23ececf6d5f9d"
     },
     {
       "entity_type": "chapter",
       "id": "jack-ch-03-beanstalk-grows",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/the-beanstalk-grows--nstalk-grows/chapter.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/the-beanstalk-grows--nstalk-grows/chapter.md",
       "semantic_sha256": "bd8072dff47a2e7472acdeb97e025600d5d4d9bcfbaaf327cc90a95c2974bcb9"
     },
     {
       "entity_type": "chapter",
       "id": "jack-ch-04-above-clouds",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/climbing-above-the-clouds--above-clouds/chapter.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/climbing-above-the-clouds--above-clouds/chapter.md",
       "semantic_sha256": "811e0cf6b1beaf913343528f8f51d3ad73484379e0aa977ccef957d1796090ea"
     },
     {
       "entity_type": "chapter",
       "id": "jack-ch-05-giants-table",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/on-the-giants-table--giants-table/chapter.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/on-the-giants-table--giants-table/chapter.md",
       "semantic_sha256": "8f6b1d131aebd459bd185332053718763b5f770af84c1a9ba3f6443b81f53c53"
     },
     {
       "entity_type": "chapter",
       "id": "jack-ch-06-golden-goose",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/the-golden-goose--golden-goose/chapter.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/the-golden-goose--golden-goose/chapter.md",
       "semantic_sha256": "566a66d9410699f7d6770768ec13997be3a45d05166eea95bb4345a6ca7ee950"
     },
     {
       "entity_type": "chapter",
       "id": "jack-ch-07-after-fall",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/after-the-fall--7-after-fall/chapter.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/after-the-fall--7-after-fall/chapter.md",
       "semantic_sha256": "d3d8753f2da8aa94f88c8b7ee71d27f005b6980551ceff1f2146021c786574af"
     },
     {
       "entity_type": "chapter_summary",
       "id": "jack-ch-01-bruised-cloud-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/beneath-the-bruised-purple-cloud--ruised-cloud/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/beneath-the-bruised-purple-cloud--ruised-cloud/summary.md",
       "semantic_sha256": "8c6cf574072e857616d784c2e25f41a55e264a2d2ba98509a697ca54e23f2482"
     },
     {
       "entity_type": "chapter_summary",
       "id": "jack-ch-02-throwing-beans-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/throwing-the-beans-away--rowing-beans/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/throwing-the-beans-away--rowing-beans/summary.md",
       "semantic_sha256": "d8e26c43be62ae8956f3e5465bcc6b25f738d38258033b47cdc75f78c968de80"
     },
     {
       "entity_type": "chapter_summary",
       "id": "jack-ch-03-beanstalk-grows-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/the-beanstalk-grows--nstalk-grows/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/the-beanstalk-grows--nstalk-grows/summary.md",
       "semantic_sha256": "187531836c3d28e52a6b60098ad605d73cf09fb14b2c9ee2df840322e5822967"
     },
     {
       "entity_type": "chapter_summary",
       "id": "jack-ch-04-above-clouds-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/climbing-above-the-clouds--above-clouds/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/climbing-above-the-clouds--above-clouds/summary.md",
       "semantic_sha256": "de6b425fe573c7158dbb09d2202e66448d8fcf5af845bb274a62639c56e240d8"
     },
     {
       "entity_type": "chapter_summary",
       "id": "jack-ch-05-giants-table-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/on-the-giants-table--giants-table/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/on-the-giants-table--giants-table/summary.md",
       "semantic_sha256": "f09a353d5d4f7308cf8ddb498bc11a7dbbd24b0fbd0ec7fe889c8c66339804a4"
     },
     {
       "entity_type": "chapter_summary",
       "id": "jack-ch-06-golden-goose-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/the-golden-goose--golden-goose/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/the-golden-goose--golden-goose/summary.md",
       "semantic_sha256": "fa23d442887d2a16651f8afc15b67878c2fc0953675c2a92f18cf696c4944fb2"
     },
     {
       "entity_type": "chapter_summary",
       "id": "jack-ch-07-after-fall-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/chapters/after-the-fall--7-after-fall/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/chapters/after-the-fall--7-after-fall/summary.md",
       "semantic_sha256": "24e4fa672dca0ecd3553b7a9744018b4790490825d58f2a196a7d4fb66ee566d"
     },
     {
       "entity_type": "part",
       "id": "jack-part-01-bargain",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/parts/the-bargain--t-01-bargain/part.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/parts/the-bargain--t-01-bargain/part.yaml",
       "semantic_sha256": "32d877210669c6331c549bf1945c74dd7411cc0ff705b7402b54420a81d1cc45"
     },
     {
       "entity_type": "part",
       "id": "jack-part-02-above-rain",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/parts/above-the-rain--2-above-rain/part.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/parts/above-the-rain--2-above-rain/part.yaml",
       "semantic_sha256": "d3c5a5652b655ef1540f783dec9d83ed258c67ba59fd82be197dec153e18548d"
     },
     {
       "entity_type": "part",
       "id": "jack-part-03-bring-down-house",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/parts/bringing-down-the-house--g-down-house/part.yaml",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/parts/bringing-down-the-house--g-down-house/part.yaml",
       "semantic_sha256": "6ac5c57a32e0eeaeadbbffca9899d96d3964fdd06fddaec75546a9f2cbb67a01"
     },
     {
       "entity_type": "part_summary",
       "id": "jack-part-01-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/parts/the-bargain--t-01-bargain/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/parts/the-bargain--t-01-bargain/summary.md",
       "semantic_sha256": "1fbee963ba6d6651e8a82a76feaef8246ac7b008001851d271b41ed305e5850b"
     },
     {
       "entity_type": "part_summary",
       "id": "jack-part-02-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/parts/above-the-rain--2-above-rain/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/parts/above-the-rain--2-above-rain/summary.md",
       "semantic_sha256": "96ccc148bf6fd0d23b610bb6a7cb24dcca103ee63f5636dfc786a898999bfc9f"
     },
     {
       "entity_type": "part_summary",
       "id": "jack-part-03-summary",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/parts/bringing-down-the-house--g-down-house/summary.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/parts/bringing-down-the-house--g-down-house/summary.md",
       "semantic_sha256": "11e1d8a003f7aacb2f1de5ea90992840f444cbac44459466abe921d059d19ece"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-bellweather-valley",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/bellweather-valley--ather-valley.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/bellweather-valley--ather-valley.md",
       "semantic_sha256": "2fa22026c2352cd2c4849baa98cb1bbf897daabd03003469893c613acb517ce8"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-cloud-house",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/the-cloud-house---cloud-house.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/the-cloud-house---cloud-house.md",
       "semantic_sha256": "4d0940a36189bfb70712f391ac91d84c1475f0cf1cd35025e828f271ee71fafb"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-dapple",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/dapple---wiki-dapple.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/dapple---wiki-dapple.md",
       "semantic_sha256": "06de5c51d645de65880dead9ba61b23ab0a1bafb4c5bf2fd5c2275ed32cf9e0f"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-jack",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/jack--ck-wiki-jack.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/jack--ck-wiki-jack.md",
       "semantic_sha256": "1eebaaeb016d9018b3e3d055d740f647cc6a46d6bc0996f7e86a7fd216338f4b"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-jacks-cottage",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/jack-s-cottage--acks-cottage.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/jack-s-cottage--acks-cottage.md",
       "semantic_sha256": "e9e151494a1f1f1becde81cdc84ea942abb41c9387dc96a129cb4607513820e4"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-jacks-mother",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/jack-s-mother--jacks-mother.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/jack-s-mother--jacks-mother.md",
       "semantic_sha256": "d8efb95d55bf0df463ec5bd628317ecb46248ed4a6f09dd98bf89aa590763fdb"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-lady-morrow",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/lady-morrow---lady-morrow.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/lady-morrow---lady-morrow.md",
       "semantic_sha256": "ce12fdf01bd276ea77ff66eb8ea6ea1303d223952b05fb6212da809978195bb6"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-lord-morrow",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/lord-morrow---lord-morrow.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/lord-morrow---lord-morrow.md",
       "semantic_sha256": "1fa921006c647b536ebc8ec4434353010f911900432e6b2431d4ae547feb4c84"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-majesty",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/majesty--wiki-majesty.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/majesty--wiki-majesty.md",
       "semantic_sha256": "9e152b24cf66f403e455b4ffe742f5cd90b1da9622dc12cc2aae08ecd6f5f60b"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-nell",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/nell--ck-wiki-nell.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/nell--ck-wiki-nell.md",
       "semantic_sha256": "8b9ae261b6e6331342609c17a7f913b429db8faac0231ec4bb431f1d64cdd057"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-silas-wren",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/silas-wren--i-silas-wren.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/silas-wren--i-silas-wren.md",
       "semantic_sha256": "0cd553998a67b2b4fdac8bb5311d29b06cdfda6fa8670e993cf01da5d76b213f"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-truth-harp",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/the-harp--i-truth-harp.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/the-harp--i-truth-harp.md",
       "semantic_sha256": "5b7a8410e214dc3b1522d41239a2248ec6694c45a3af391eb768b1ec07d820a8"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-weather-garden",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/the-weather-garden--ather-garden.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/the-weather-garden--ather-garden.md",
       "semantic_sha256": "6fdada389964fbd6d4ffabdd4131b5dadfa72babb986f75f3e3833ab69ff4716"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-weather-room",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/the-weather-room--weather-room.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/the-weather-room--weather-room.md",
       "semantic_sha256": "15eb18ae181d4ca86ac03e9035a130dc3c67c714df024b959b0fd679af52975b"
     },
     {
       "entity_type": "wiki_page",
       "id": "jack-wiki-wrens-house",
-      "path": "books/jack-and-the-house-above-the-rain--e-above-rain/wiki/wren-s-house---wrens-house.md",
+      "path": "books/jack-and-the-beanstalk--e-above-rain/wiki/wren-s-house---wrens-house.md",
       "semantic_sha256": "941533158c177b25d2287d26771bec203d4d54dc46db8b524b386fb74779abab"
     }
   ]

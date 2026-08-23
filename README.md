@@ -1,4 +1,4 @@
-# Jack and the House Above the Rain
+# Jack and the Beanstalk
 
 This repository is an editable example story for [Beta Bot](https://github.com/gennitdev/ai-beta-reader-frontend). It is both a complete illustrated story and a canonical, Git-friendly Beta Bot selection bundle.
 

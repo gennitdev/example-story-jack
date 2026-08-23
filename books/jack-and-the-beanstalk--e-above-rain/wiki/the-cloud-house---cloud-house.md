@@ -5,7 +5,6 @@ page_name: "The Cloud-House"
 page_type: "location"
 summary: "The Morrows’ immense living estate, suspended above Bellweather by weather machinery and five anchors."
 aliases:
-  - "the house above the rain"
   - "the Morrows’ estate"
 tags:
   - "magic"
