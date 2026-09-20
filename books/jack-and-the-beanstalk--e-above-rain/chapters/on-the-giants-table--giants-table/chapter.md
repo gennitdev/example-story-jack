@@ -63,7 +63,7 @@ wiki_mentions:
     created_at: "2026-08-22T12:00:00.000Z"
     updated_at: "2026-08-22T12:00:00.000Z"
 ---
-For a moment Jack could not understand what he was seeing. The floor spread away like a wooden courtyard, each plank wider than a bed. A scarred table stood at its center on legs as thick as oaks. Iron pans hung against the far wall, black moons large enough to roof cottages. On the stove, a copper kettle breathed steam through the nostrils of a dragon. Its smallest teacup would have made a comfortable wash barrel; the teaspoon beside it was proportioned neatly enough for a giant’s hand and therefore as long as Jack was tall.
+The kitchen floor spread away like a wooden courtyard, each plank wider than a bed. A scarred table stood at its center on legs as thick as oaks. Iron pans hung against the far wall, black moons large enough to roof cottages. On the stove, a copper kettle breathed steam through the nostrils of a dragon. Its smallest teacup would have made a comfortable wash barrel; the teaspoon beside it was proportioned neatly enough for a giant’s hand and therefore as long as Jack was tall.
 
 Magic moved through the domestic vastness. A knife chopped carrots by itself, each downward stroke shaking the board. A line of blue flames ran beneath the stove. Bells were fixed high on the walls where no giant could walk into them, their cords descending neatly beside the doorways like ship’s rigging. They rang one after another, and cupboards opened in answer.
 
@@ -95,7 +95,7 @@ There were hundreds stacked behind the cage, each stamped with Lord Morrow’s s
 
 Against the wall, on a giant writing desk, stood a harp.
 
-It too was made for human hands. Rowanwood formed its pillar; its soundbox was dark with age and carved with birds whose wings seemed to stir in the firelight. Silver strings ran from neck to body. It was scarcely taller than Nell, a small ornament among the Morrows’ furniture.
+It too was made for human hands. Rowanwood formed its pillar; its soundbox was dark with age and carved with birds whose wings shifted when the firelight moved. Silver strings ran from neck to body. It was scarcely taller than Nell, a small ornament among the Morrows’ furniture.
 
 As Jack approached, one string plucked itself.
 
@@ -123,7 +123,7 @@ Voices filled the treasury—not one voice but hundreds, braided into harmony.
 
 The music ceased.
 
-Nell looked at him. Neither needed to say what they had heard. The harp was not merely an instrument. It was the memory of the house.
+Nell’s fingers tightened around the goose’s collar. The harp remembered every object in the house.
 
 A bell rang.
 
@@ -267,7 +267,7 @@ His teeth were chattering. “Yes.”
 
 “Yes.”
 
-She looked as if she might strike him, embrace him again, or do both. Instead she caught his face between her cracked hands and inspected him for injuries with furious thoroughness.
+She caught his face between her cracked hands and inspected him for injuries with furious thoroughness.
 
 Nell dropped from the vine beside them. “Before anyone kills him, may we go indoors?”
 
@@ -363,7 +363,7 @@ Wren’s hands closed around the table edge.
 
 “That is an answer people give when saving someone would interfere with revenge.”
 
-Wren flinched as if she had struck him.
+Wren let go of the table edge.
 
 Jack’s mother bent over the plans. She followed each suspension line with one blunt, reddened finger. Then she took three pieces of mending thread from the basket, tied them to the handle of a wooden spoon, and passed their ends to Jack, Nell, and Wren.
 
@@ -395,6 +395,6 @@ His anger did not vanish. Jack saw it resisting the idea, searching for reasons 
 
 Wren looked at Jack and Nell.
 
-His mother did too.
+His mother followed his gaze. The mending thread tightened around her fist.
 
-The anger left her face then. What replaced it was worse.
+“No,” she said.

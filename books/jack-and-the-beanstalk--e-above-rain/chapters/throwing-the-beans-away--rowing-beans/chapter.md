@@ -55,7 +55,7 @@ For several seconds she did not move. The fire ticked behind him. A shirt on the
 
 “They’re magic.”
 
-Her face did not change, but the room seemed to contract around them.
+She set both hands flat on the table, one on either side of the beans.
 
 Jack began quickly. He told her about Wren, the plans, the builder’s mark, the vine growing in the old man’s hand. He told her about the unpaid gold and the living road. He told her the cow was alive, sheltered, and eating better than she had eaten at home. He told her everything except how frightened Nell had looked when he made the bargain.
 
@@ -103,9 +103,7 @@ Jack bent to gather them. “I can take them back.”
 
 “And if he refuses? Will you trade him your boots? The roof? Me?”
 
-He flinched. Regret passed across her face, but it did not cool the anger.
-
-She snatched the beans from the floor, crossed to the window, and wrenched it open. Cold air shoved into the room, smelling of mud and chimney smoke.
+He flinched. Her mouth opened, but she snatched the beans from the floor, crossed to the window, and wrenched it open. Cold air shoved into the room, smelling of mud and chimney smoke.
 
 “Let magic eat them,” she said. “Magic has eaten everything else.”
 
@@ -119,11 +117,11 @@ His mother closed the window so hard the remaining pane cracked from corner to c
 
 Jack went to the loft.
 
-He lay fully dressed beneath his father’s old blanket while the house settled into silence below. He heard his mother sweep up the crock. He heard her moving the dresser to recover the lost penny. Much later, he heard her crying, once, as if the sound had been forced out of her. Then the spinning wheel began to turn.
+He lay fully dressed beneath his father’s old blanket while the house settled into silence below. He heard his mother sweep up the crock. He heard her moving the dresser to recover the lost penny. Much later, he heard her cry out once—a single broken sound. Then the spinning wheel began to turn.
 
 Jack put his hands over his ears.
 
-He still believed Wren. That was the worst of it. He believed the beans were magical and the road was real and the house above them contained more wealth than his mother could imagine. But belief did not restore the choice he had taken from her. He had gambled what she had earned, not what he had earned, and no possible treasure could make that decision wise before the treasure was won.
+The bean had rooted around Wren’s finger. The plans carried the same mark as the anchor stones. Jack still believed every word. But Dapple had not been his alone to gamble. Even if a fortune waited in the cloud, tonight his mother had a shattered crock, three vanished beans, and one more plan he had taken from her.
 
 Sometime after midnight, the rain began again.
 

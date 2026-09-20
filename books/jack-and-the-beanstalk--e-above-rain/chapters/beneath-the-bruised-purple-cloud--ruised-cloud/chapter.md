@@ -78,7 +78,7 @@ Inside, the cottage smelled of damp wool, woodsmoke, lye soap, and apples beginn
 
 His mother stood at the table pressing circles of pastry over spoonfuls of stewed apple. She made the pastry with more water than butter and rolled it thin enough for light to pass through. Three finished hand pies waited on the board. She would carry them to the inn at noon, where the keeper might buy them if his wife had not baked that day.
 
-Everything else she did to keep them alive crowded the room around her. A spinning wheel stood before the cold half of the hearth, a strand of coarse brown wool still drawn through the flyer. Shirts belonging to other families hung from a line overhead, ghostly in the smoke, never quite drying. Two baskets of mending waited beneath the bench. A blue dress lay soaking in lye water near the door. The skin across her knuckles was cracked and angry from washing, and there was a small white burn on her wrist from the oven.
+A spinning wheel stood before the cold half of the hearth, a strand of coarse brown wool still drawn through the flyer. Shirts belonging to other families hung from a line overhead, ghostly in the smoke, never quite drying. Two baskets of mending waited beneath the bench. A blue dress lay soaking in lye water near the door. The skin across her knuckles was cracked and angry from washing, and there was a small white burn on her wrist from the oven.
 
 She looked up when Jack entered. His mother was not old—thirty-nine, she had told him sharply the last time he guessed—but the past three years had put gray into the dark hair at her temples and fine lines between her brows. She was a handsome woman still, straight-backed and broad-shouldered, with hazel eyes that could warm a room when she laughed. Jack had not heard her laugh much that autumn.
 
@@ -110,15 +110,15 @@ Jack set the wood beside the hearth. “Mrs. Fen says she’ll pay for the washi
 
 She said it lightly, but her fingers had stopped moving. For three months she had been trying to save enough to take them north to her sister’s village before snow closed the pass. Her sister had a small house, five children, and, most importantly, no cloud above her fields. There would be work for Jack in the slate yard and laundry for his mother from the boardinghouse. They did not need a fortune. They needed the tax debt paid and two seats on the winter coach.
 
-They had sold the copper preserving pan. They had sold Jack’s father’s good saw and the little silver brooch his mother used to wear on Sundays. She had spun by firelight until her hands cramped shut, washed sheets in water that skinned her fingers red, baked pies, mended trousers, weeded other people’s gardens, and sat up with sick children for whatever their parents could spare. The sum in the blue crock above the hearth had risen painfully, coin by coin.
+They had sold the copper preserving pan, Jack’s father’s good saw, and the little silver brooch his mother used to wear on Sundays. The sum in the blue crock above the hearth had risen painfully, coin by coin.
 
 The new levy took almost all of it.
 
 His mother wiped flour from her hands. “Dapple must go to market.”
 
-The cow bumped the wall again, as if she had heard.
+Dapple’s crooked horn scraped the wall again.
 
-Jack had known this was coming. Even so, the words seemed to alter the cottage. Dapple had been born the spring before his father died. Jack had slept in the byre the night she came, wrapped in a horse blanket, waking each time the calf stirred in the straw. She was brindled brown and cream, with one crooked horn and long lashes the color of honey.
+Jack had known this was coming. Dapple shifted behind the wall, close enough that he heard her nose push through the last of the hay. She had been born the spring before his father died. Jack had slept in the byre the night she came, wrapped in a horse blanket, waking each time the calf stirred in the straw. She was brindled brown and cream, with one crooked horn and long lashes the color of honey.
 
 “Mr. Bell will cheat us,” he said.
 
@@ -194,7 +194,7 @@ Inside, it was warm and smelled of dust, rosemary, and something metallic beneat
 
 Jack noticed the beans because they were the only clean things in the room. Each was as large as the end of his thumb, deep green marbled with silver, as if moonlight had worked its way beneath the skin.
 
-The old man noticed him noticing.
+The old man slid the bowl toward him.
 
 “Silas Wren,” he said. “Former artificer of weather, suspension, and architectural impossibilities. Present keeper of an excellent supply of turnips and an empty byre.” He looked at the grave through the rain-streaked window. “My wife liked milk in her tea.”
 
@@ -260,7 +260,7 @@ Wren tapped his chest. “My heart objects when I climb the stairs. I doubt it w
 
 “The Morrows own objects worth more than this valley has produced in a hundred years.”
 
-Nell examined the plans, the ring, the live curl of vine around Wren’s finger. Her expression had changed. Her uncle’s workshop had been assessed for unpaid rain tax three weeks ago. At Midwinter, if he could not pay, it would become the property of the cloud.
+Nell set the plan beside Wren’s ring and aligned the three-leaf marks. Her thumb stopped first on the promise of three measures, then on the receipt for two. Her uncle’s workshop had been assessed for unpaid rain tax three weeks ago. At Midwinter, if he could not pay, it would become the property of the cloud.
 
 Jack knew what his mother would say. He could hear each word in her voice: *Money, Jack. Not a promissory note. Not a lame goat. Not a clock.*
 
