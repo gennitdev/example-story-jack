@@ -104,7 +104,7 @@ The villagers had gone still. His mother stood among them, one hand gripping the
 
 “Come down now.”
 
-The stalk trembled again. Jack looked up at the cloud and made the second decision he would later wish he could make over.
+The stalk trembled again. Jack looked down at his mother’s hand gripping the doorframe, then up at the cloud.
 
 He climbed.
 

@@ -75,7 +75,7 @@ wiki_mentions:
 ---
 The cloud-house moved.
 
-At first it was no more than a sensation in Jack’s stomach, the tiny loss of certainty felt when an elevator begins to descend. Then every hanging chain in the weather room lifted toward the ceiling. Water sloshed from its pipes. The valley below widened.
+At first Jack felt only the small upward pull beneath his ribs that came when a hoist began to lower. Then every hanging chain in the weather room lifted toward the ceiling. Water sloshed from its pipes. The valley below widened.
 
 Lady Morrow seized the key. Her hand closed around the iron above Jack, each finger longer than his arm. The mechanism stopped.
 
@@ -301,7 +301,7 @@ It took seven days to make the settlement and most of a winter to carry it out.
 
 The Morrows surrendered the gold eggs, the tax records, the weather jars, and every object the harp identified as seized beyond the old covenant measure. In return, the villagers did not burn the house, imprison the giants in their own walls, or send word to the mountain clans that giant opals were fetching an excellent price in the north.
 
-Lady Morrow argued every clause. Lord Morrow argued every noun. Jack’s mother sat across from them at a table built hastily on the moor, wearing her cleanest dress and the expression she usually reserved for merchants who claimed not to have noticed a hole in a sheet. Nell’s uncle advised her on mechanisms. Wren advised her on magic. The harp corrected everyone.
+Lady Morrow argued every clause. Lord Morrow argued every noun. Jack’s mother sat across from them at a table built hastily on the moor, wearing her cleanest dress. Each time a Morrow challenged a term, she found the matching line in their ledger and pushed it back across the table. Nell’s uncle advised her on mechanisms. Wren advised her on magic. The harp corrected everyone.
 
 The weather key was placed under five locks, one for each district of the valley. No rain could be held, sold, or released unless three districts agreed. The cloud itself unraveled slowly from the house and returned to the ordinary sky. For the first time in Jack’s life, weather came to Bellweather without permission.
 
@@ -325,7 +325,7 @@ His mother gave him a look.
 
 Dapple thrust past them into the lean-to and began eating as if she had been gone five minutes.
 
-Some of the returned gold paid the winter levy, and then the winter levy was abolished, so the money paid for roof thatch, seed grain, a new copper preserving pan, and the medicine of everyone who needed it. Nell’s uncle kept his workshop. Mrs. Fen paid for her washing. Jack’s mother never moved to her sister’s village, although she did take the coach there in spring simply because, for once, she could afford to.
+Some of the returned gold was set aside for the winter levy. Then the settlement abolished the levy, so the money paid for roof thatch, seed grain, a new copper preserving pan, and the medicine of everyone who needed it. Nell’s uncle kept his workshop. Mrs. Fen paid for her washing. Jack’s mother never moved to her sister’s village, although she did take the coach there in spring simply because, for once, she could afford to.
 
 The cloud-house remained on the moor.
 

@@ -60,7 +60,7 @@ wiki_mentions:
 ---
 They argued until morning.
 
-Jack’s mother said no first, and she said it with all the force she had used when throwing the beans. Wren could draw a map. Someone else could climb. The village had roofers, steeple workers, men who harvested pears from ladders twice Jack’s height.
+Jack’s mother did not change her answer. Wren could draw a map. Someone else could climb. The village had roofers, steeple workers, men who harvested pears from ladders twice Jack’s height.
 
 But the house had smelled Jack and Nell. The maintenance passages had admitted them and the harp had chosen to help them. Wren’s old brass mark would open the weather room only when carried by someone the house had already accepted as maintenance. It was an absurd distinction, and the house was built out of absurd distinctions.
 
@@ -82,7 +82,7 @@ Jack nodded.
 
 She spent the morning preparing them.
 
-From laundry rope and strips of sailcloth she made climbing harnesses that fit close around their legs and ribs. She lined their coats with pieces cut from his father’s blanket. She packed bread, hard cheese, two onions, candles, flint, bandages, a flask of hot tea, and the small kitchen knife because it was the sharpest blade they owned. She tied each object into the satchels so nothing could fall. Her hands never stopped. It was how she kept fear from occupying them.
+From laundry rope and strips of sailcloth she made climbing harnesses that fit close around their legs and ribs. She lined their coats with pieces cut from his father’s blanket. She packed bread, hard cheese, two onions, candles, flint, bandages, a flask of hot tea, and the small kitchen knife because it was the sharpest blade they owned. She tied each object into the satchels so nothing could fall. Her hands never stopped. When a knot slipped, she swore and tied it again.
 
 Meanwhile, the harp’s tuning peg sang the truth of the Morrows’ taxes in the village square.
 
@@ -260,7 +260,7 @@ Nell gasped. The tools lifted from her hands and flew into the giant’s palm.
 
 “You confuse knowing a name with owning it,” the harp sang.
 
-Lady Morrow’s expression changed.
+Lady Morrow drew the naming wand across her palm. The engraved names lit one after another.
 
 “You were not asked.”
 
